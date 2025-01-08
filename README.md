@@ -19,7 +19,8 @@ Food waste and hunger are major global issues. Around one-third of food produced
 Our project aims to address the issues of food waste and hunger by creating a platform that connects users with NGOs/Retreate centres that are dedicated to feeding the hungry and providing food to those in need. By facilitating these connections, we hope to contribute to the achievement of food security and minimize the problem of food wastage.
 
 Our goals include providing reliable and sustainable food sources to those in need, reducing food waste by channeling it to those who can use it, and raising awareness and encouraging action on the issues of food waste and hunger.
-Adapted it with modifications for use from:: @nishaaannnt
+Adapted it with modifications for use from::Nishant Dixit
+
 <br>
 <br>
 
