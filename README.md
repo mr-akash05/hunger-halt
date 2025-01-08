@@ -65,7 +65,6 @@ To contribute to the Sustainable Development Goals, Hunger Halt aligns with "Zer
 <h2>Project Portals</h2>
 Hunger Halt Website - https://hunger-halt.web.app/  
 <br>
-Hunger Halt Video : https://youtu.be/EQqf-oyWLzk
 
 
 <h2>Key features</h2>
